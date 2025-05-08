@@ -8,7 +8,13 @@ This project is the **backend of the Smart Product Launch Dashboard**, designed 
 
 This backend serves as the **core engine** for the Smart Product Launch Dashboard. It handles user registration, login, authentication, and allows users to submit and manage ideas for product development.
 
----
+----------
+## Dummy user credentials 
+
+- **Email:** demo@launchpad.com  
+- **Password:** test123
+
+---------
 
 ## 🧠 What’s Implemented
 
