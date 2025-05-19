@@ -37,7 +37,7 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
         String username = null;
         String url = request.getRequestURL().toString();
         System.out.println(url + " url ra");
-        if(url.contains("register") || url.contains("login")){
+        if(url.contains("register") || url.contains("login") || url.contains("swagger") || url.contains("v3")){
             filterChain.doFilter(request,response);
             return;
         }
