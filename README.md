@@ -8,11 +8,15 @@ This project is the **backend of the Smart Product Launch Dashboard**, designed 
 
 This backend serves as the **core engine** for the Smart Product Launch Dashboard. It handles user registration, login, authentication, and allows users to submit and manage ideas for product development.
 
+## Server is live at - (http://65.2.57.138:8080)[http://65.2.57.138:8080]
+## Swagger UI can be accessed at - (http://65.2.57.138:8080/swagger-ui/index.html)[http://65.2.57.138:8080/swagger-ui/index.html]
+
+
 ----------
 ## Dummy user credentials 
 
-- **Email:** demo@launchpad.com  
-- **Password:** test123
+- **Email:** user@gmail.com  
+- **Password:** user123
 
 ---------
 
